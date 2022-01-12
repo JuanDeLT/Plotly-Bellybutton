@@ -1,0 +1,15 @@
+body {
+    color: #f7f7f7;
+    font-family: Monospace
+}
+/* code from Dhanesh Agrawal from https://stackoverflow.com/questions/29102884/increasing-height-of-bootstrap-jumbotron-but-remaining-responsive*/
+.jumbotron {
+    background-image: url("../resources/bacteria_background.jpg");
+    padding-top: 20%;
+    padding-bottom: 20%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
